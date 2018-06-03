@@ -1,2 +1,3 @@
 # hello-world
-first use of trpository
+first use of repository
+... corrected spelling mistake
